@@ -5,6 +5,8 @@
         //When you your code, C#/Visual Studio runs your main method from top to bottom 
         static void Main(string[] args)
         {
+            Console.WriteLine(  "Hello world!");
+            Console.WriteLine("My favorite burger place is Culver's");
             Console.WriteLine("Welcome to our circle calculator");
             Console.WriteLine( "Please input a radius");
             string input = Console.ReadLine();
